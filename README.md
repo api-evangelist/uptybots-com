@@ -64,5 +64,138 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-uptybots-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://uptybots.com/
+Uptime monitoring built for AI-first developers. Monitor websites, APIs, SSL, domains & ports; connect Claude, Cursor or any AI assistant via MCP. Start free. Uptime monitoring platform built for AI-first developers: websites, APIs, SSL certificates, domains, and servers, with native MCP access for AI assistants.
+
+**Areas:** Company · Monitoring · Uptime · AI · MCP
+
+## uptybots-com on APIs.io
+
+Everything profiled for uptybots-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/uptybots-com/](https://apis.io/providers/uptybots-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [UptyBots API](https://apis.io/apis/uptybots-com/uptybots-api/) — REST API for accessing monitors, stats, notifications, account info, and API keys.
+- [uptybots-com API](https://apis.io/apis/uptybots-com/uptybots-com-api/) — uptybots-com API as documented publicly: 21 operations. Contract generated from the documentation by API Evangelist (2026-10-31); not the provider's own…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [GetApiTargetIncidentsResponse](https://apis.io/schemas/uptybots-com/uptybots-com-get-api-target-incidents-response/)
+- [GetApiTargetStatsDailiesResponse](https://apis.io/schemas/uptybots-com/uptybots-com-get-api-target-stats-dailies-response/)
+- [GetApiTargetStatsHourliesResponse](https://apis.io/schemas/uptybots-com/uptybots-com-get-api-target-stats-hourlies-response/)
+- [GetApiTargetsIdResponse](https://apis.io/schemas/uptybots-com/uptybots-com-get-api-targets-id-response/)
+- [PostApiTargetsTypePortRequest](https://apis.io/schemas/uptybots-com/uptybots-com-post-api-targets-type-port-request/)
+- [PostApiUserApiKeysResponse](https://apis.io/schemas/uptybots-com/uptybots-com-post-api-user-api-keys-response/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Uptybots Com Context](https://apis.io/jsonld/uptybots-com/uptybots-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [uptybots-com API Rules](https://apis.io/rules/uptybots-com/uptybots-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Uptybots Com Authentication](https://apis.io/security/uptybots-com/uptybots-com-authentication/)
+- [Uptybots Com Domain Security](https://apis.io/security/uptybots-com/uptybots-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Uptybots Com Scopes](https://apis.io/scopes/uptybots-com/uptybots-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Uptybots Com Plans Pricing](https://apis.io/plans/uptybots-com/uptybots-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Uptybots Com Rate Limits](https://apis.io/rate-limits/uptybots-com/uptybots-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://uptybots.com/)
+- [Documentation](https://uptybots.com/docs)
+- [Getting started](https://uptybots.com/blog/uptime-monitoring-for-agencies-a-practical-setup-for-50-client-sites)
+- [API reference](https://uptybots.com/docs/api)
+- [Pricing](https://uptybots.com/pricing)
+- [Sign up](https://uptybots.com/register)
+- [Blog](https://uptybots.com/blog)
+- [Terms of service](https://uptybots.com/page/terms)
+- [Privacy policy](https://uptybots.com/page/privacy)
+- [GitHub](https://github.com/uptybots)
+- [Status](https://uptybots.com/system/status)
+
+## API Evangelist rating
+
+**Kin Score 58.0** — strong · rubric 0.25.0 · scored 2026-10-31
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 51.6 |
+| Contract governance | 79.1 |
+| Operational transparency | 21.1 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 73.2 |
+
+**Agent readiness 43.9** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 31.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/uptybots-com/](https://apis.io/providers/uptybots-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for uptybots-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/uptybots-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
